@@ -1,2 +1,2 @@
 # REST-API-LARAVEL-
-Registration, Login, Product Retrieve and Logout APIs (Laravel).
+Authenticate APIs with passport.Registration, Login, Product Retrieve and Logout APIs (Laravel).
